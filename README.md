@@ -76,13 +76,14 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-
-
+## Insert image here:
+![output](final.jpeg)
+![output](in.jpeg)
 
 ## MobileRobot Movement Video:
-https://drive.google.com/file/d/18J81yVHyB2L3EROoaju7j7_142qf1oKu/view?usp=sharing
+https://youtu.be/ttkfd_p5uvk
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 
 
